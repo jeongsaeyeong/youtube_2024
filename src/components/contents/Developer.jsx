@@ -1,7 +1,7 @@
 import React from 'react'
-import Main from '../components/section/Main'
+import Main from '../section/Main'
 
-import { developerText } from '../data/developer'
+import { developerText } from '../../data/develop'
 import { Link } from 'react-router-dom'
 
 const Developer = () => {
