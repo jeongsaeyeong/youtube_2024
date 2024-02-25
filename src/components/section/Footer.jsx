@@ -1,9 +1,13 @@
 import React from 'react'
 
 const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
+    return (
+        <footer id='footer' role="contentinfo"> 
+            <a href="mailto:webstoryboy@naver.com" rel="noopener noreferrer">
+                webstoryboy@naver.com
+            </a>
+        </footer>
+    )
 }
 
 export default Footer
